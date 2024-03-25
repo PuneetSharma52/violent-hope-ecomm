@@ -96,7 +96,7 @@ export default function Navbar({ category }) {
               display={["none", "flex", "flex"]}
             >
               {token ? (
-                <Text letterSpacing={1} cursor="pointer">
+                <Text letterSpacing={1} cursor="default">
                   My account
                 </Text>
               ) : (

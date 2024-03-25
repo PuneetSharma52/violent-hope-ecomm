@@ -53,7 +53,7 @@ export default function FooterBottom() {
         justify={{ base: "center", md: "space-between" }}
         align={{ base: "center", md: "center" }}
       >
-        <Text>copyright © 2006-2022 violenthope.com</Text>
+        <Text>copyright © 2024 Puneet Sharma</Text>
         <Stack direction={"row"} alignItems="center" spacing={6}>
           
           <p>term of use</p>

@@ -72,7 +72,7 @@ export default function LargeWithNewsletter() {
           <Stack textAlign={"center"} spacing={6} mt={["0%", "10%", "-20%"]}>
             <Logo />
             <Text fontSize={"md"} color={"gray"}>
-              © 2022 Violent Hope. All rights reserved
+              © 2024 Puneet Sharma. All rights reserved
             </Text>
           </Stack>
           <Stack align={"flex-start"}>
